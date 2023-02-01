@@ -1,0 +1,266 @@
+{
+	"status": "ok",
+	"totalResults": 36,
+	"articles": [
+		{
+			"source": {
+				"id": null,
+				"name": "The Guardian"
+			},
+			"author": "Mark Sweney",
+			"title": "King Charles’s Christmas Day message breaks TV viewing record - The Guardian",
+			"description": "BBC claims victory over streaming rivals, as 10.6 million tune in for most watched monarch’s address on record",
+			"url": "https://www.theguardian.com/uk-news/2022/dec/26/king-charless-christmas-day-message-breaks-tv-viewing-records",
+			"urlToImage": "https://i.guim.co.uk/img/media/b413003c823c3391bd67e6774afadacd46de9632/1075_244_4657_2794/master/4657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db435ea96af22820087def81f7d6929f",
+			"publishedAt": "2022-12-26T14:33:00Z",
+			"content": "King Charless Christmas broadcast was the most watched Christmas TV address by a monarch on record, as the BBC claimed a festive viewing victory over streaming rivals such as Netflix.\r\nA record 10.6 … [+2717 chars]"
+		},
+		{
+			"source": {
+				"id": "fox-news",
+				"name": "Fox News"
+			},
+			"author": "Shiv Sudhakar",
+			"title": "Potatoes aren't always bad for you — it's all in the preparation, new study indicates - Fox News",
+			"description": "A new study examined the relationship of potato consumption and the incidence of Type 2 diabetes — as well as the way the potato is prepared — as part of a larger study on vegetable intake.",
+			"url": "https://www.foxnews.com/lifestyle/potatoes-arent-always-bad-you-preparation-study-indicates",
+			"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/GettyImages-687589548.jpg",
+			"publishedAt": "2022-12-26T13:55:44Z",
+			"content": "A new study shares some sympathy for a much-maligned vegetable: the potato.  \r\nIt found that the way the potato is prepared including what people add to it is what's associated with Type 2 diabetes, … [+5639 chars]"
+		},
+		{
+			"source": {
+				"id": "bleacher-report",
+				"name": "Bleacher Report"
+			},
+			"author": "Maurice Moton",
+			"title": "NFL Week 16 Takeaways: Biggest Takeaways from 2022 Christmas Eve Games - Bleacher Report",
+			"description": "As the\nbitter cold gripped the country and impacted several games on the Week 16 Christmas\nEve slate, a quarterback rose to the occasion and looks like the...",
+			"url": "https://bleacherreport.com/articles/10059663-nfl-week-16-takeaways-biggest-takeaways-from-2022-christmas-eve-games",
+			"urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1671917875/xxjr2nnpfpb3fwn708gd.jpg",
+			"publishedAt": "2022-12-26T13:52:05Z",
+			"content": "Taylor Heinicke (left) and Carson Wentz (right)Jonathan Newton/The Washington Post via Getty Images\r\nThe Washington Commanders benched Taylor Heinicke after he threw an interception in the four quart… [+1501 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "KIRO Seattle"
+			},
+			"author": "Briseida Holguin",
+			"title": "4 Pierce County utility substations vandalized, cutting power to more than 14K on Christmas - KIRO Seattle",
+			"description": "Sgt. Darren Moss with the Pierce County Sheriff's Department says deputies will be monitoring all substations.",
+			"url": "https://www.kiro7.com/news/local/more-than-7k-without-power-east-pierce-county-after-substation-attack/WVRNJQTTLJAHRIHTVJ5SJ2BCGE/",
+			"urlToImage": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/5NL1ktjnZWXcc-YFOG3nsicDSdU=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/12-26-2022/t_e978411ca65648aca6e92c3b9503e9af_name_5p__East_Pierce_Power_Outages_transfer_frame_2118.jpeg",
+			"publishedAt": "2022-12-26T13:49:35Z",
+			"content": "GRAHAM, Wash. — Over 14,000 people in Pierce County celebrated Christmas in the dark.\r\nThe Sheriffs Department says four utility substations were vandalized early Sunday morning.\r\nI woke up and the p… [+2310 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "BBC News"
+			},
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Drone attack on Russian bomber base leaves three dead - BBC",
+			"description": "The airbase, used by Russian planes targeting Ukraine, is hit for the second time this month.",
+			"url": "https://www.bbc.com/news/world-europe-64092183",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ECEC/production/_128125606_5a3fefd6-3e1b-465f-8459-c94273124e83.jpg",
+			"publishedAt": "2022-12-26T13:05:54Z",
+			"content": "A Ukrainian drone attack on an airbase for bombers in southern Russia has left three people dead, Moscow says. \r\nAir defences shot down the drone near the Engels base, but falling debris fatally woun… [+3052 chars]"
+		},
+		{
+			"source": {
+				"id": "associated-press",
+				"name": "Associated Press"
+			},
+			"author": "Hyung-jin Kim",
+			"title": "S. Korea launches jets, fires shots after North flies drones - The Associated Press - en Español",
+			"description": "SEOUL, South Korea (AP) — South Korea’s military fired warning shots, scrambled fighter jets and flew surveillance assets across the heavily fortified border with North Korea on Monday, after North Korean drones violated its airspace for the first time in fiv…",
+			"url": "https://apnews.com/article/south-korea-jets-north-korea-drones-8ae75ec612d676455529499a3f20eabb",
+			"urlToImage": "https://storage.googleapis.com/afs-prod/media/5a395c39fa5a4ab0829fbf75ca374c48/3000.webp",
+			"publishedAt": "2022-12-26T12:45:00Z",
+			"content": "SEOUL, South Korea (AP) South Koreas military fired warning shots, scrambled fighter jets and flew surveillance assets across the heavily fortified border with North Korea on Monday, after North Kore… [+4207 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Women's Health"
+			},
+			"author": "Emilia Benton",
+			"title": "A Lingering COVID Cough Is Actually A Sign That Your Lungs Are Healing - Yahoo Life",
+			"description": "Here's when you need to see a doc.",
+			"url": "https://www.womenshealthmag.com/health/a42221477/how-long-does-covid-cough-last/",
+			"urlToImage": "https://hips.hearstapps.com/hmg-prod/images/ill-woman-coughing-royalty-free-image-1671205585.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
+			"publishedAt": "2022-12-26T12:30:00Z",
+			"content": "Believe it or not, were now going on year three of the \r\nCOVID-19\r\n pandemic. Most of us know more people whove had it than not, and chances are youve had it yourself at least once. What may still ta… [+5249 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "INSIDER"
+			},
+			"author": "Anna Medaris",
+			"title": "Doctors dismissed 3 young people's stroke symptoms as drugs, migraines - Insider",
+			"description": "About 10% of strokes happen in people under 50, but doctors may think young people's symptoms are caused by migraines, or drug and alcohol use.",
+			"url": "https://www.insider.com/doctors-dismissed-young-peoples-strokes-as-drugs-alcohol-migraines-2022-11",
+			"urlToImage": "https://i.insider.com/6387e2add346c1001894a69e?width=1200&format=jpeg",
+			"publishedAt": "2022-12-26T11:00:45Z",
+			"content": "When Hailey Beiber had a stroke in March at age 25, it forced fans and followers to confront a under-appreciated fact: Strokes can, and do, happen to young people.\r\nIndeed, about 10% of stroke victim… [+5377 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "BBC News"
+			},
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Iran protests: 'No going back' as unrest hits 100 days - BBC",
+			"description": "Anger swells despite a fierce crackdown as the regime faces its biggest challenge in decades.",
+			"url": "https://www.bbc.com/news/world-middle-east-64062900",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9AE4/production/_128125693_rsz_pa_291022_cf90f66f1e6cc345afeb727fa9f4cd89e9edaa0b.jpg",
+			"publishedAt": "2022-12-26T10:00:29Z",
+			"content": "A hundred days after they began, the longest running anti-government protests in Iran since the 1979 Islamic revolution have shaken the regime, but at a heavy cost to the people.\r\nMore than 500 prote… [+5894 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "SamMobile"
+			},
+			"author": "SamMobile, Asif Iqbal Shaik",
+			"title": "Galaxy S23 is getting a brightness, battery, and performance boost - SamMobile - Samsung news",
+			"description": "We are just one month away from the official Galaxy S23 announcement. So, some solid leaks regarding Samsung's upcoming high-end ...",
+			"url": "https://www.sammobile.com/news/base-galaxy-s23-screen-brightness-battery-boost/",
+			"urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/09/Galaxy-s23-plus-2-720x405.jpg",
+			"publishedAt": "2022-12-26T09:31:00Z",
+			"content": "We are just one month away from the official Galaxy S23 announcement. So, some solid leaks regarding Samsungs upcoming high-end phones have started appearing. Yesterday, the first official image of t… [+1227 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Reuters",
+			"title": "Six dead in Spain after bus plunges off bridge into river - CNN",
+			"description": "Six people died and two were injured after a passenger bus careened off a bridge and plunged into an overflowing river in northwestern Spain, emergency services said on Sunday.",
+			"url": "https://www.cnn.com/2022/12/25/europe/spain-bus-crash-deaths-intl-hnk/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221226170516-04-spain-bus-accident.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-12-26T08:39:00Z",
+			"content": "Six people died and two were injured after a passenger bus careened off a bridge and plunged into an overflowing river in northwestern Spain, emergency services said on Sunday.\r\nTwo survivors - the v… [+1743 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Nouran Salahieh",
+			"title": "Winter storm leaves at least 37 dead nationwide as residents in western New York remain trapped under feet of snow - CNN",
+			"description": "As a massive winter storm continues to blast much of the US with brutal winter weather -- leading to at least 37 deaths nationwide -- parts of western New York have been buried by up to 43 inches of snow, leaving vehicles stuck and power out for thousands dur…",
+			"url": "https://www.cnn.com/2022/12/26/weather/arctic-winter-storm-new-york-blizzard-monday/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221226133001-03-winter-weather-ny.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-12-26T08:36:00Z",
+			"content": "As a massive winter storm continues to blast much of the US with brutal winter weather leading to at least 37 deaths nationwide parts of western New York have been buried by up to 43 inches of snow, … [+7333 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New York Post"
+			},
+			"author": "Associated Press",
+			"title": "Heavy snow in Japan leaves 17 dead, dozens injured - New York Post ",
+			"description": "Heavy snow in large swaths of Japan has killed 17 and injured more than 90 people and left hundreds of homes without power.",
+			"url": "https://nypost.com/2022/12/26/heavy-snow-in-japan-leaves-17-dead-dozens-injured/",
+			"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/newspress-collage-25135497-1672041156818.jpg?quality=75&strip=all&1672023193&w=1024",
+			"publishedAt": "2022-12-26T08:13:00Z",
+			"content": "Heavy snow in large swaths of Japan has killed 17 and injured more than 90 people and left hundreds of homes without power, disaster management officials said Monday.\r\nPowerful winter fronts have dum… [+1763 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CBS Sports"
+			},
+			"author": "Cody Benjamin",
+			"title": "Cardinals vs. Buccaneers score, takeaways: Tom Brady guides late comeback as Tampa Bay gets past Arizona in OT - CBS Sports",
+			"description": "This one was ugly from start to finish",
+			"url": "https://www.cbssports.com/nfl/news/cardinals-vs-buccaneers-score-takeaways-tom-brady-guides-late-comeback-as-tampa-bay-gets-past-arizona-in-ot/live/",
+			"urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/25/f336cf77-93e2-4865-ae1b-9e76df0fc06f/thumbnail/1200x675/d9de8b0fb6bd0b647bba843b5c38d159/brady-4g.jpg",
+			"publishedAt": "2022-12-26T07:51:00Z",
+			"content": "Trace McSorley had a chance to play both hero and spoiler in his first career NFL start, helping the Cardinals take the NFC South-leading Buccaneers to overtime in the final game of the league's Chri… [+3224 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "China claims Taiwan as its own territory | World News | International News | English News | WION - WION",
+			"description": null,
+			"url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFAOAXDrfvGk",
+			"urlToImage": null,
+			"publishedAt": "2022-12-26T07:22:46Z",
+			"content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": null,
+			"title": "'The ICU is full': frontline workers of China's COVID fight say hospitals are 'overwhelmed' - Reuters",
+			"description": "In more than three decades of emergency medicine, Beijing-based doctor Howard Bernstein said, he has never seen anything like this.",
+			"url": "https://www.reuters.com/world/china/the-icu-is-full-medical-staff-frontline-chinas-covid-fight-say-hospitals-are-2022-12-26/",
+			"urlToImage": "https://www.reuters.com/resizer/FyOK1Ug9tvBkxkDmW0O-esdxcu0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X64MGCQKXFL6LIQUGSJZVF3YFE.jpg",
+			"publishedAt": "2022-12-26T07:07:00Z",
+			"content": "BEIJING, Dec 26 (Reuters) - In more than three decades of emergency medicine, Beijing-based doctor Howard Bernstein said, he has never seen anything like this.\r\nPatients are arriving at his hospital … [+4523 chars]"
+		},
+		{
+			"source": {
+				"id": "business-insider",
+				"name": "Business Insider"
+			},
+			"author": "Sam Tabahriti",
+			"title": "Caroline Ellison said she's 'truly sorry' for defrauding FTX customers - Business Insider",
+			"description": "Former Alameda Research CEO made the comments when pleading guilty to seven criminal counts relating to the FTX collapse, The New York Times reported.",
+			"url": "https://www.businessinsider.com/caroline-ellison-said-shes-truly-sorry-for-defrauding-ftx-customers-2022-12",
+			"urlToImage": "https://i.insider.com/63a95cba47bbe40019835d11?width=1200&format=jpeg",
+			"publishedAt": "2022-12-26T07:00:00Z",
+			"content": "Caroline Ellison apologized for her role in defrauding customers and investors of cryptocurrency exchange FTX, telling a judge she \"knew it was wrong,\" according to a transcript of her plea hearing s… [+2045 chars]"
+		},
+		{
+			"source": {
+				"id": "bloomberg",
+				"name": "Bloomberg"
+			},
+			"author": null,
+			"title": "Stock Market Today: Dow, S&P Live Updates for Dec. 26, 2022 - Bloomberg",
+			"description": null,
+			"url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1d830699-84fb-11ed-b036-584465657466&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0yNS9pbnZlc3Rvci1mb2N1cy1vbi1pbmZsYXRpb24tcGF0aC1jaGluYS1jb3ZpZC13b2VzLW1hcmtldHMtd3JhcA==",
+			"urlToImage": null,
+			"publishedAt": "2022-12-26T06:57:00Z",
+			"content": "To continue, please click the box below to let us know you're not a robot."
+		},
+		{
+			"source": {
+				"id": "axios",
+				"name": "Axios"
+			},
+			"author": "Sri Ravipati",
+			"title": "Migrants dropped off at Vice President Harris' home on Christmas Eve - Axios",
+			"description": "Washington D.C. declared a public emergency in September in response to Texas, Arizona and other states sending thousands of migrants to the nation's capital.",
+			"url": "https://www.axios.com/2022/12/25/migrants-vice-president-kamala-harris-dc-home-christmas-eve",
+			"urlToImage": "https://images.axios.com/0PAGl8p-HJj4aLrG5Yb6YB1doFA=/0x144:4516x2684/1366x768/2022/12/25/1671986846780.jpg",
+			"publishedAt": "2022-12-26T06:46:12Z",
+			"content": "More migrants from the southern border arrived on buses outside of Vice President Kamala Harris' home in Washington, D.C. on Christmas Eve during freezing temperatures, various media outlets report. … [+1206 chars]"
+		},
+		{
+			"source": {
+				"id": "the-washington-post",
+				"name": "The Washington Post"
+			},
+			"author": "Ben Golliver",
+			"title": "Jayson Tatum powers Celtics past Bucks in NBA Christmas showcase - The Washington Post",
+			"description": "The Celtics star had 41 points, including a 20-point burst in the third quarter, to push host Boston past the Bucks.",
+			"url": "https://www.washingtonpost.com/sports/2022/12/25/celtics-bucks-christmas-jayson-tatum/",
+			"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZ5A5R2ASZDKRPRBBD3ISYHWJY.jpg&w=1440",
+			"publishedAt": "2022-12-26T04:12:00Z",
+			"content": "Comment on this story\r\nThe sea parted for Boston Celtics star Jayson Tatum as he cut into the paint, only for his opening to disappear in a split second as Giannis Antetokounmpo rotated to the front … [+9647 chars]"
+		}
+	]
+}
